@@ -1,1 +1,1 @@
-# To-Supply-Left-Over-Food-To-Poor
+This Project is done as an salesforce project to ensure the complete understanding of salesforce platform and the functionalities present in it. The project aims to supply the Leftover food to the needed and NGO Services.
